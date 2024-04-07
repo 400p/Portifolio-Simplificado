@@ -32,6 +32,6 @@ function esconderBotao() {
 
 function mostrarMaisProjetos() {
     projetosInativos.forEach(projetoInativo => {
-        projetoInativo.classList.add('ativo');
-    });
-};
+        projetoInativo.classList.add('ativo')
+    })
+}
